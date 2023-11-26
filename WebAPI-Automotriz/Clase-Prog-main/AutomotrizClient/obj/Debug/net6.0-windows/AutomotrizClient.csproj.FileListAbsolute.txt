@@ -549,3 +549,39 @@ H:\Documents\Documents\TUP\segundo cuatrimestre\Programacion 2\tp\TPI_PROG2.0.2\
 H:\Documents\Documents\TUP\segundo cuatrimestre\Programacion 2\tp\TPI_PROG2.0.2\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\ref\AutomotrizClient.dll
 H:\Documents\Documents\TUP\segundo cuatrimestre\Programacion 2\tp\TPI_PROG2.0.2\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Productos.Modificacion_de_Empleados.resources
 H:\Documents\Documents\TUP\segundo cuatrimestre\Programacion 2\tp\TPI_PROG2.0.2\ProgramacionII_TP-main\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Productos.Delete_empleado.resources
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\AutomotrizClient.exe
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\AutomotrizClient.deps.json
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\AutomotrizClient.runtimeconfig.json
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\AutomotrizClient.dll
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\AutomotrizClient.pdb
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\es\AutomotrizClient.resources.dll
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\Libreria.dll
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\bin\Debug\net6.0-windows\Libreria.pdb
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.csproj.AssemblyReference.cache
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Login.resources
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Menu.resources
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Productos.Empleados.resources
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Productos.Delete_empleado.resources
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Productos.Modificacion_de_Empleados.resources
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Properties.Resources.resources
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.FrmFacturas.resources
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.Menu.es.resources
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.csproj.GenerateResource.cache
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.AssemblyInfoInputs.cache
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.AssemblyInfo.cs
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.csproj.CoreCompileInputs.cache
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\es\AutomotrizClient.resources.dll
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.csproj.CopyComplete
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.dll
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\refint\AutomotrizClient.dll
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.pdb
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\AutomotrizClient.genruntimeconfig.cache
+C:\Users\leonardoDJ\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\AutomotrizClient\obj\Debug\net6.0-windows\ref\AutomotrizClient.dll

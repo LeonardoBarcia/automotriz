@@ -115,7 +115,7 @@ namespace Libreria.Properties {
         }
         
         /// <summary>
-        ///   Busca una cadena traducida similar a Data Source=LEONARDODJ-PC\SQLEXPRESS;Initial Catalog=AutomotrizDB_PROG;Integrated Security=True.
+        ///   Busca una cadena traducida similar a Data Source=LEONARDODJ-PC\SQL;Initial Catalog=AutomotrizDB_PROG;Integrated Security=True.
         /// </summary>
         internal static string ConexionString7 {
             get {

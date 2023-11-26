@@ -141,7 +141,7 @@
     <comment>Zombienot</comment>
   </data>
   <data name="ConexionString7" xml:space="preserve">
-    <value>Data Source=LEONARDODJ-PC\SQLEXPRESS;Initial Catalog=AutomotrizDB_PROG;Integrated Security=True</value>
+    <value>Data Source=LEONARDODJ-PC\SQL;Initial Catalog=AutomotrizDB_PROG;Integrated Security=True</value>
     <comment>leo</comment>
   </data>
 </root>

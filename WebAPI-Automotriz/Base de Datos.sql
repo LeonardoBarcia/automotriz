@@ -500,4 +500,22 @@ AS
 BEGIN
 	SET @next = (SELECT MAX(cod_producto)+1  FROM Productos);
 END
+create procedure ps_eliminar_empleado
+@legajo int
+as
+begin
+    delete from Empleados where legajo=@legajo
+end
+
+create procedure SP_MODIFICAR_EMPLEADO
+@nombre varchar(50),
+@cod_tipo_empleado int,
+@legajo int
+as
+begin 
+     update Empleados
+	 set nombre=@nombre,cod_tipo_empleado=@cod_tipo_empleado
+	 where legajo=@legajo
+
+end
 

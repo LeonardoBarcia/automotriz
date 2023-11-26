@@ -18,14 +18,10 @@
           "System.Security.Principal.Windows": "4.7.0"
         },
         "compile": {
-          "ref/netstandard2.0/_._": {
-            "related": ".xml"
-          }
+          "ref/netstandard2.0/_._": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microsoft.Win32.Registry.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/Microsoft.Win32.Registry.dll": {}
         },
         "runtimeTargets": {
           "runtimes/unix/lib/netstandard2.0/Microsoft.Win32.Registry.dll": {
@@ -41,14 +37,10 @@
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
       "runtime.native.System.Data.SqlClient.sni/4.7.0": {
@@ -94,14 +86,10 @@
           "runtime.native.System.Data.SqlClient.sni": "4.7.0"
         },
         "compile": {
-          "ref/netcoreapp2.1/System.Data.SqlClient.dll": {
-            "related": ".xml"
-          }
+          "ref/netcoreapp2.1/System.Data.SqlClient.dll": {}
         },
         "runtime": {
-          "lib/netcoreapp2.1/System.Data.SqlClient.dll": {
-            "related": ".xml"
-          }
+          "lib/netcoreapp2.1/System.Data.SqlClient.dll": {}
         },
         "runtimeTargets": {
           "runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll": {
@@ -121,14 +109,10 @@
           "System.Security.Principal.Windows": "4.7.0"
         },
         "compile": {
-          "ref/netstandard2.0/_._": {
-            "related": ".xml"
-          }
+          "ref/netstandard2.0/_._": {}
         },
         "runtime": {
-          "lib/netstandard2.0/System.Security.AccessControl.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/System.Security.AccessControl.dll": {}
         },
         "runtimeTargets": {
           "runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll": {
@@ -140,14 +124,10 @@
       "System.Security.Principal.Windows/4.7.0": {
         "type": "package",
         "compile": {
-          "ref/netcoreapp3.0/_._": {
-            "related": ".xml"
-          }
+          "ref/netcoreapp3.0/_._": {}
         },
         "runtime": {
-          "lib/netstandard2.0/System.Security.Principal.Windows.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/System.Security.Principal.Windows.dll": {}
         },
         "runtimeTargets": {
           "runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll": {
@@ -529,40 +509,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\leonardoGAMIN\\.nuget\\packages\\": {},
-    "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages": {}
+    "C:\\Users\\leonardoDJ\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Documents\\Documents\\TUP\\segundo cuatrimestre\\Programacion 2\\tp\\TPI_PROG2.0.2\\ProgramacionII_TP-main\\WebAPI-Automotriz\\Clase-Prog-main\\AutomotrizClient\\AutomotrizClient.csproj",
+      "projectUniqueName": "C:\\Users\\leonardoDJ\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\AutomotrizClient\\AutomotrizClient.csproj",
       "projectName": "AutomotrizClient",
-      "projectPath": "H:\\Documents\\Documents\\TUP\\segundo cuatrimestre\\Programacion 2\\tp\\TPI_PROG2.0.2\\ProgramacionII_TP-main\\WebAPI-Automotriz\\Clase-Prog-main\\AutomotrizClient\\AutomotrizClient.csproj",
-      "packagesPath": "C:\\Users\\leonardoGAMIN\\.nuget\\packages\\",
-      "outputPath": "H:\\Documents\\Documents\\TUP\\segundo cuatrimestre\\Programacion 2\\tp\\TPI_PROG2.0.2\\ProgramacionII_TP-main\\WebAPI-Automotriz\\Clase-Prog-main\\AutomotrizClient\\obj\\",
+      "projectPath": "C:\\Users\\leonardoDJ\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\AutomotrizClient\\AutomotrizClient.csproj",
+      "packagesPath": "C:\\Users\\leonardoDJ\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\leonardoDJ\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\AutomotrizClient\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\leonardoGAMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+        "C:\\Users\\leonardoDJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0-windows"
+        "net6.0-windows7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "H:\\Documents\\Documents\\TUP\\segundo cuatrimestre\\Programacion 2\\tp\\TPI_PROG2.0.2\\ProgramacionII_TP-main\\WebAPI-Automotriz\\Clase-Prog-main\\Libreria\\Libreria.csproj": {
-              "projectPath": "H:\\Documents\\Documents\\TUP\\segundo cuatrimestre\\Programacion 2\\tp\\TPI_PROG2.0.2\\ProgramacionII_TP-main\\WebAPI-Automotriz\\Clase-Prog-main\\Libreria\\Libreria.csproj"
+            "C:\\Users\\leonardoDJ\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\Libreria\\Libreria.csproj": {
+              "projectPath": "C:\\Users\\leonardoDJ\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\Libreria\\Libreria.csproj"
             }
           }
         }
@@ -588,8 +562,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -601,7 +574,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
