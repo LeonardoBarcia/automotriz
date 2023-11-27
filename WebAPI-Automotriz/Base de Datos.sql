@@ -1,3 +1,7 @@
+create database AutomotrizDB_PROG
+go
+use AutomotrizDB_PROG
+go
 
 
 create table Tipos_empleado(
@@ -170,10 +174,6 @@ insert into Tipos_producto(descripcion)
 
 
 
-select * from Tipos_vehiculo
-
-select * from Modelos
-
 
 insert into Productos(cod_tipo_producto, cod_modelo, cod_tipo_vehiculo, stock, precio)
 			values (1, 1, 7,200, 4934137),
@@ -215,7 +215,7 @@ insert into Facturas (cod_empleado,fecha,nom_cliente,cuit       ,  cod_plan,cod_
 					(	5	,'2022-07-06','Franco Montes',	24534263550	,	0	,	2	),
 					(	2	,'2022-12-24','Alfredo Villalba',21784166754	,	0	,	1	)
 
-select * from Productos
+
 -------------------------- INSERT DETALLES FACTURA ------------------------------------------
 --insert into Detalles_factura (cod_factura,patente ,nro_serie,cantidad,precio)
 --					  values (	1		,	1004  ,	null	,	1	,	4160072	),
@@ -500,6 +500,7 @@ AS
 BEGIN
 	SET @next = (SELECT MAX(cod_producto)+1  FROM Productos);
 END
+
 create procedure ps_eliminar_empleado
 @legajo int
 as
@@ -518,4 +519,3 @@ begin
 	 where legajo=@legajo
 
 end
-
