@@ -1,0 +1,72 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Reportes\DataSet1.xsd" />
+    <None Remove="Reportes\data\Reportempleados.rdlc" />
+    <None Remove="Reportes\data\ReportFactura.rdlc" />
+    <None Remove="Reportes\data\Reportproducto.rdlc" />
+    <None Remove="Reportes\Report1.rdlc" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Reportes\data\Reportempleados.rdlc" />
+    <EmbeddedResource Include="Reportes\data\ReportFactura.rdlc" />
+    <EmbeddedResource Include="Reportes\data\Reportproducto.rdlc" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ReportViewerCore.WinForms" Version="15.1.19" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Reportes\DataSet1.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Update="Reportes\data\DataSet1.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Update="Reportes\data\DataSetempleados.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>DataSetempleados.xsd</DependentUpon>
+    </Compile>
+    <Compile Update="Reportes\data\DataSetProductos.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>DataSetProductos.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Reportes\data\DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Update="Reportes\data\DataSetempleados.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetempleados.Designer.cs</LastGenOutput>
+    </None>
+    <None Update="Reportes\data\DataSetProductos.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetProductos.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>

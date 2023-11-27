@@ -1,35 +1,40 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leonardoDJ\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\AutomotrizClient\\AutomotrizClient.csproj": {}
+    "H:\\Documents\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\AutomotrizClient\\AutomotrizClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leonardoDJ\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\AutomotrizClient\\AutomotrizClient.csproj": {
+    "H:\\Documents\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\AutomotrizClient\\AutomotrizClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leonardoDJ\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\AutomotrizClient\\AutomotrizClient.csproj",
+        "projectUniqueName": "H:\\Documents\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\AutomotrizClient\\AutomotrizClient.csproj",
         "projectName": "AutomotrizClient",
-        "projectPath": "C:\\Users\\leonardoDJ\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\AutomotrizClient\\AutomotrizClient.csproj",
-        "packagesPath": "C:\\Users\\leonardoDJ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leonardoDJ\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\AutomotrizClient\\obj\\",
+        "projectPath": "H:\\Documents\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\AutomotrizClient\\AutomotrizClient.csproj",
+        "packagesPath": "C:\\Users\\leonardoGAMIN\\.nuget\\packages\\",
+        "outputPath": "H:\\Documents\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\AutomotrizClient\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\leonardoDJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\leonardoGAMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows7.0"
+          "net6.0-windows10.0.22621.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0-windows7.0": {
-            "targetAlias": "net6.0-windows",
+          "net6.0-windows10.0.22621": {
+            "targetAlias": "net6.0-windows10.0.22621.0",
             "projectReferences": {
-              "C:\\Users\\leonardoDJ\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\Libreria\\Libreria.csproj": {
-                "projectPath": "C:\\Users\\leonardoDJ\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\Libreria\\Libreria.csproj"
+              "H:\\Documents\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\Libreria\\Libreria.csproj": {
+                "projectPath": "H:\\Documents\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\Libreria\\Libreria.csproj"
               }
             }
           }
@@ -41,8 +46,8 @@
         }
       },
       "frameworks": {
-        "net6.0-windows7.0": {
-          "targetAlias": "net6.0-windows",
+        "net6.0-windows10.0.22621": {
+          "targetAlias": "net6.0-windows10.0.22621.0",
           "dependencies": {
             "Newtonsoft.Json": {
               "target": "Package",
@@ -55,45 +60,76 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.22621.31, 10.0.22621.31]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref": {
               "privateAssets": "all"
             },
             "Microsoft.WindowsDesktop.App.WindowsForms": {
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\leonardoDJ\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\Libreria\\Libreria.csproj": {
+    "H:\\Documents\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\Libreria\\Libreria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leonardoDJ\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\Libreria\\Libreria.csproj",
+        "projectUniqueName": "H:\\Documents\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\Libreria\\Libreria.csproj",
         "projectName": "Libreria",
-        "projectPath": "C:\\Users\\leonardoDJ\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\Libreria\\Libreria.csproj",
-        "packagesPath": "C:\\Users\\leonardoDJ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leonardoDJ\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\Libreria\\obj\\",
+        "projectPath": "H:\\Documents\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\Libreria\\Libreria.csproj",
+        "packagesPath": "C:\\Users\\leonardoGAMIN\\.nuget\\packages\\",
+        "outputPath": "H:\\Documents\\Documents\\GitHub\\automotriz\\WebAPI-Automotriz\\Clase-Prog-main\\Libreria\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\leonardoDJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\leonardoGAMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net6.0-windows10.0.22621.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net6.0-windows10.0.22621": {
+            "targetAlias": "net6.0-windows10.0.22621.0",
             "projectReferences": {}
           }
         },
@@ -104,8 +140,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net6.0-windows10.0.22621": {
+          "targetAlias": "net6.0-windows10.0.22621.0",
           "dependencies": {
             "System.Data.SqlClient": {
               "target": "Package",
@@ -118,16 +154,38 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.22621.31, 10.0.22621.31]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref": {
+              "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

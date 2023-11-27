@@ -1,0 +1,15 @@
+H:\Documents\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\Libreria\bin\Debug\net6.0-windows10.0.22621.0\Libreria.deps.json
+H:\Documents\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\Libreria\bin\Debug\net6.0-windows10.0.22621.0\Libreria.dll
+H:\Documents\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\Libreria\bin\Debug\net6.0-windows10.0.22621.0\Libreria.pdb
+H:\Documents\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0-windows10.0.22621.0\Libreria.csproj.AssemblyReference.cache
+H:\Documents\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0-windows10.0.22621.0\Libreria.Properties.Resources.resources
+H:\Documents\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0-windows10.0.22621.0\Libreria.csproj.GenerateResource.cache
+H:\Documents\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0-windows10.0.22621.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+H:\Documents\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0-windows10.0.22621.0\Libreria.AssemblyInfoInputs.cache
+H:\Documents\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0-windows10.0.22621.0\Libreria.AssemblyInfo.cs
+H:\Documents\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0-windows10.0.22621.0\Libreria.csproj.CoreCompileInputs.cache
+H:\Documents\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0-windows10.0.22621.0\Libreria.sourcelink.json
+H:\Documents\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0-windows10.0.22621.0\Libreria.dll
+H:\Documents\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0-windows10.0.22621.0\refint\Libreria.dll
+H:\Documents\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0-windows10.0.22621.0\Libreria.pdb
+H:\Documents\Documents\GitHub\automotriz\WebAPI-Automotriz\Clase-Prog-main\Libreria\obj\Debug\net6.0-windows10.0.22621.0\ref\Libreria.dll

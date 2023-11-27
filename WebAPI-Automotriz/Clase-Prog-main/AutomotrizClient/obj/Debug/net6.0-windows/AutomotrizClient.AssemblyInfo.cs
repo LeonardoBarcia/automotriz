@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutomotrizClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8acfc2540ff0c2657176f6cb44c9a15abdb091d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutomotrizClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutomotrizClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
